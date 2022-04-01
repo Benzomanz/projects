@@ -1,1 +1,1 @@
-Just a stupid in VSC!
+Just a stupid test in VSC!
